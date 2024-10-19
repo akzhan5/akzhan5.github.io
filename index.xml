@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Akzhan Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://akzhan5.github.io/</link>
     <description>Recent content on Akzhan Blog</description>
     <generator>Hugo -- 0.136.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Oct 2024 01:25:12 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://akzhan5.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My little brother is the cutest human being to ever exist</title>
-      <link>http://localhost:1313/posts/post2/</link>
+      <link>https://akzhan5.github.io/posts/post2/</link>
       <pubDate>Sun, 20 Oct 2024 01:25:12 +0300</pubDate>
-      <guid>http://localhost:1313/posts/post2/</guid>
+      <guid>https://akzhan5.github.io/posts/post2/</guid>
       <description>&lt;p&gt;Here&amp;rsquo;s an image of him:&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/PHOTO-2021-12-28-12-46-34.jpg&#34; alt=&#34;My boy&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://akzhan5.github.io/PHOTO-2021-12-28-12-46-34.jpg&#34; alt=&#34;My boy&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s a code block:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hello_world&lt;/span&gt;():
@@ -23,9 +23,9 @@
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/post1/</link>
+      <link>https://akzhan5.github.io/posts/post1/</link>
       <pubDate>Sun, 20 Oct 2024 00:38:20 +0300</pubDate>
-      <guid>http://localhost:1313/posts/post1/</guid>
+      <guid>https://akzhan5.github.io/posts/post1/</guid>
       <description>&lt;p&gt;I have made some progress. I am proud of myself. Be proud of yourself.&lt;/p&gt;</description>
     </item>
   </channel>
