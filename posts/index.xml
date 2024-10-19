@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Akzhan Blog</title>
+    <link>https://akzhan5.github.io/posts/</link>
+    <description>Recent content in Posts on Akzhan Blog</description>
+    <generator>Hugo -- 0.136.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Oct 2024 00:38:20 +0300</lastBuildDate>
+    <atom:link href="https://akzhan5.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://akzhan5.github.io/posts/post1/</link>
+      <pubDate>Sun, 20 Oct 2024 00:38:20 +0300</pubDate>
+      <guid>https://akzhan5.github.io/posts/post1/</guid>
+      <description>&lt;p&gt;I have made some progress. I am proud of myself. Be proud of yourself.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
